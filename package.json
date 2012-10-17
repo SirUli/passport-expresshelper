@@ -1,0 +1,29 @@
+{
+  "author": "Uli Wolf <github@wolf-u.li>",
+  "name": "passport-expresshelper",
+  "description": "dynamicHelpers for expressjs 2.x",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:SirUli/passport-expresshelper.git"
+  },
+  "main": "./index.js",
+  "directories": {
+    "lib": "./lib"
+  },
+  "bugs": {
+    "url": "https://github.com/SirUli/passport-expresshelper/issues"
+  },
+  "engines": {
+    "node": ">=0.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "passport",
+    "expressjs",
+    "middleware"
+  ],
+  "license": "BSD"
+}
